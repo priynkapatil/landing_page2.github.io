@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Montserrat:wght@400;500;600;700&family=Oswald:wght@200&family=Poppins:wght@400;500;600;700&display=swap');
+
+/* reset */
+ *{
+    max-width: 1440px;
+    max-height: 900px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+/*  main Body */
+html,body{
+    line-height: 1.7em;
+    font-family: 'Poppins', serif;
+
+}
+.container{
+    max-width: 1440px;
+    margin: auto;
+    overflow: auto;
+    padding: 0px 20px;
+
+}
+.logo{
+top: 52px;
+left: 150px;
+width: 135px;
+height: 55px;
+background: transparent url('/img/Group\ 10330.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+margin-top: 51.82px;
+float: left;
+margin-left: 150px ;
+display: block;
+}
+
+ 
+ul{
+    opacity: 1;
+    float: right;
+    list-style: none;
+
+
+}
+#navbar ul li{
+    float: left;
+    display: block;
+    padding-left: 82.27px;
+    margin-top: 64.82px;
+    text-align: left;
+    font: normal normal medium 18px/35px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+
+
+}
+#navbar img{
+    left: 1148px;
+    width: 142px;
+    height: 41px;
+    margin-top: 56.28px;
+    float: right;
+    margin-right: 150px;
+    margin-top: -2px;
+    
+    } 
+
+#navbar{
+    background: url(/img/Group\ 11894.png) no-repeat;
+    overflow: auto;
+    height: 713px;
+    width: 100%;;
+}
+
+#navbar .text1{
+    top: 182px;
+    margin-left: 429px;
+    margin-right: 42ppx;
+    width: 582px;
+    height: 109px;
+    text-align: center;
+    letter-spacing: NaNpx;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 92.18px;
+
+
+}
+
+#navbar .text1 h1{
+
+top: 0px;
+left: 61px;
+width: 460px;
+height: 68px;
+text-align: center;
+font: normal normal bold 40px/45px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+
+
+#navbar .text1 h2{
+
+top: 58px;
+left: 0px;
+width: 582px;
+height: 51px;
+text-align: center;
+font: normal normal bold 34px/45px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+margin-left:-25px;
+
+}
+
+#navbar .text2{
+ top: 318px;
+margin-left: 248px;
+width: 944px;
+height: 57px;
+padding-top: 27px;
+}
+
+#navbar .text2 p{
+
+ text-align: center;
+font: normal normal normal 19px/30px Poppins;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+#navbar .btn2{
+top: 399px;
+left: 610px;
+width: 221px;
+height: 39px;
+background: transparent url('/img/Group\ 10551.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+margin: auto;
+margin-top: 24px;
+
+}
+
+.img1{
+
+top: 497px;
+margin-left: 107px;
+width: 1227px;
+height: 305px;
+background: transparent url('/img/Mockup\ 1.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+margin-top: -202px;
+}
+
+
